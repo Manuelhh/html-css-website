@@ -1,3 +1,52 @@
-# This is the readme file for this repo
+---
+# PROJECT : An HTML & CSS based website.
+---
 
-text.
+### Quik Intro :
+
+A website for a fictitious restaurant.
+
+---
+
+### App Screenshots :
+
+---
+
+---
+
+![Home-page](images/readme/home.png)
+
+---
+
+![About-page](images/readme/about.png)
+
+---
+
+![Menu-page](images/readme/manu.png)
+
+---
+
+![Contact-page](images/readme/contact.png)
+
+---
+
+---
+
+### Technologies Used :
+
+1. HTML
+2. CSS
+3. Media Queries
+4. CSS grid
+5. Flex-box
+6. CDN libraries
+7. Google maps
+8. git
+9. gitHub
+10. Netlify
+
+---
+
+### [link](https://competent-easley-7a403a.netlify.app) to the website
+
+---
