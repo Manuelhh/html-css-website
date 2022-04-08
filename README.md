@@ -14,17 +14,25 @@ A website for a fictitious restaurant.
 
 ---
 
+#### Home page
+
 ![Home-page](images/readme/home.png)
 
 ---
+
+#### About page
 
 ![About-page](images/readme/about.png)
 
 ---
 
+#### Menu page
+
 ![Menu-page](images/readme/menu.png)
 
 ---
+
+#### Contact page
 
 ![Contact-page](images/readme/contact.png)
 
