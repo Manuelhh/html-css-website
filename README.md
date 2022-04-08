@@ -22,7 +22,7 @@ A website for a fictitious restaurant.
 
 ---
 
-![Menu-page](images/readme/manu.png)
+![Menu-page](images/readme/menu.png)
 
 ---
 
